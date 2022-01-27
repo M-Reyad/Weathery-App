@@ -11,7 +11,7 @@
         <!--Weather View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="WeatherViewController" customModule="Clima" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="WeatherViewController" customModule="Weathery" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="g3Y-cT-2C3">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -136,7 +136,7 @@
         <image name="magnifyingglass" catalog="system" width="64" height="56"/>
         <image name="sun.max" catalog="system" width="64" height="62"/>
         <namedColor name="Color">
-            <color red="0.1560518444" green="0.4334478974" blue="0.49251395460000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.15600000321865082" green="0.43299999833106995" blue="0.49300000071525574" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <namedColor name="WeatherSet">
             <color red="0.11100000143051147" green="0.26399999856948853" blue="0.28299999237060547" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
